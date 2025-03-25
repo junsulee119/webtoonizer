@@ -41,6 +41,9 @@ webtoonize_image('input.png', 'webtoon_output.png', k=16, num_bilateral=4)
 - `k`: Number of colors for quantization (default: 16)
 - `num_bilateral`: Number of bilateral filtering passes (default: 4)
 
+## Webtoon-like Image
+![Webtoon](/media/프리드로우%2010화.png)
+
 ## Demo Images
 
 ### Original Image
